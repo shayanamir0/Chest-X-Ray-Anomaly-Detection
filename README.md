@@ -13,7 +13,7 @@ Lung diseases such as pneumonia and lung cancer can be life-threatening if not d
 ## Model Architecture
 The project employs a simple autoencoder architecture for anomaly detection. Below is an overview of the model architecture:
 
-![Model Architecture](https://via.placeholder.com/800x400.png?text=Model+Architecture)
+![Model Architecture]([https://via.placeholder.com/800x400.png?text=Model+Architecture](https://github.com/shayanamir0/Chest-X-Ray-Anomaly-Detection/blob/main/JSRT%20Autoenc%20model.png))
 
 The autoencoder model consists of an encoder that compresses the input image into a lower-dimensional representation and a decoder that reconstructs the image from this representation. Anomalies are detected based on the reconstruction error, with higher errors indicating potential anomalies.
 
