@@ -23,4 +23,4 @@ The model was trained on the JSRT dataset using 256*256 images with appropriate 
 - **Reconstruction Error**: Measures the difference between the original and reconstructed images. Higher errors indicate potential anomalies.
 
 ### Results
-After training the model, a sapmle prediction has been done which detects 3 anomalies.
+After training the model, a sample prediction has been done which detects 3 anomalies.
