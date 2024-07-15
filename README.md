@@ -11,7 +11,7 @@ This project focuses on detecting lung diseases from chest X-ray images using an
 Lung diseases such as pneumonia and lung cancer can be life-threatening if not detected early. This project aims to leverage an autoencoder model to automatically detect anomalies in chest X-ray images that may indicate the presence of lung diseases, thereby aiding in early diagnosis and treatment.
 
 ## Model Architecture
-The project employs a simple autoencoder architecture for anomaly detection. Below is a high-level overview of the model architecture:
+The project employs a simple autoencoder architecture for anomaly detection. Below is an overview of the model architecture:
 
 ![Model Architecture](https://via.placeholder.com/800x400.png?text=Model+Architecture)
 
